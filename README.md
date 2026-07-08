@@ -26,7 +26,7 @@
 ================================================================ -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-python
+
 class Sreenidhi:
     def __init__(self):
         self.name = "Sreenidhi K"
@@ -34,22 +34,22 @@ class Sreenidhi:
         self.degree = "B.Tech Information Technology (2024–2028)"
         self.cgpa = 9.25
 
-        self.stack = {
+   self.stack = {
             "languages": ["Python", "C", "C++", "Java", "JavaScript"],
             "data": ["Pandas", "NumPy", "Matplotlib"],
             "security": ["Wireshark", "CyberChef", "OWASP Top 10"],
             "iot": ["ESP8266", "Arduino IDE", "Blynk"]
         }
 
-        self.currently_learning = [
+  self.currently_learning = [
             "Data Engineering pipelines",
             "Advanced penetration testing",
             "Cloud data platforms"
         ]
 
-        self.fun_fact = "Solved 15+ CTF challenges across crypto, stego & web exploitation"
+  self.fun_fact = "Solved 15+ CTF challenges across crypto, stego & web exploitation"
 
-    def motto(self):
+  def motto(self):
         return "Clean the data, secure the system, ship the insight."
 
 
