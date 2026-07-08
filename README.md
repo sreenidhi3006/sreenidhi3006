@@ -82,6 +82,14 @@ print(me.motto())
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
 </p>
 
+**AI / Cloud** *(currently learning)*
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+</p>
+
 **Cybersecurity**
 <p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
@@ -258,7 +266,8 @@ print(me.motto())
 ```
 🧱 Data Engineering        → ETL pipelines, warehousing, workflow orchestration
 🔐 Offensive Security      → Advanced penetration testing, exploit development
-☁️  Cloud Data Platforms   → Cloud-native analytics & storage
+☁️  Cloud Platforms        → AWS / Azure basics, cloud-native analytics & storage
+🤖 Artificial Intelligence → Machine learning fundamentals, NLP, applied AI projects
 ```
 
 <p align="center">
