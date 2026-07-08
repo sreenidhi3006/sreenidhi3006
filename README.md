@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="mailto:sreenidhikannan3006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-6C11FF?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/sreenidhi-kannan-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sreenidhi3006.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-6C11FF?style=flat-square&logo=vercel&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=sreenidhi3006&label=Profile%20Views&color=70a5fd&style=flat-square" />
 </p>
 
@@ -26,7 +26,7 @@
 ================================================================ -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
+python
 class Sreenidhi:
     def __init__(self):
         self.name = "Sreenidhi K"
@@ -55,7 +55,7 @@ class Sreenidhi:
 
 me = Sreenidhi()
 print(me.motto())
-```
+
 
 ---
 
