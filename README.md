@@ -233,12 +233,12 @@
 
 ### 📚 Currently Learning
 
-
+```
 🧱 Data Engineering        → ETL pipelines, warehousing, workflow orchestration
 🔐 Offensive Security      → Advanced penetration testing, exploit development
 ☁️  Cloud Platforms        → AWS / Azure basics, cloud-native analytics & storage
 🤖 Artificial Intelligence → Machine learning fundamentals, NLP, applied AI projects
-
+```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
